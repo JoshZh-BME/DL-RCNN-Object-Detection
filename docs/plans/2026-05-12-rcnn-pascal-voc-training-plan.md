@@ -1,6 +1,5 @@
 # RCNN Pascal VOC Object Detection – Implementation Plan
 
-> **Agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Build a single Google Colab notebook that implements a classic RCNN object detector on Pascal VOC 2012.
 
