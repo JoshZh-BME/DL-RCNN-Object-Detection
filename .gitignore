@@ -25,6 +25,11 @@ build/
 .vscode/
 .idea/
 
+# Cache directories
+ss_cache/
+feature_cache/
+model/
+
 # Virtualenv
 venv/
 env/
